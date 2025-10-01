@@ -1,4 +1,4 @@
-# MVP 3 - Ciência de Dados: Predição de Doença Cardíaca
+# MVP 1  - Sistemas de Suporte a Decisão: Predição de Doença Cardíaca
 
 **Discente:** Helena Silveira Ventura
 **Data:** 29/09/2025
@@ -318,7 +318,7 @@ plt.show()
 
 ## Conclusões e Considerações Finais
 
-Este terceiro MVP do curso de especialização demonstrou a aplicação prática de técnicas de machine learning para resolver um problema real de saúde pública. O projeto seguiu uma metodologia estruturada, desde a definição do problema até a avaliação final dos modelos.
+Este primeiro MVP da matéria de sistemas de suporte a decisão demonstrou a aplicação prática de técnicas de machine learning para resolver um problema real de saúde pública. O projeto seguiu uma metodologia estruturada, desde a definição do problema até a avaliação final dos modelos.
 
 ### Principais Resultados
 
