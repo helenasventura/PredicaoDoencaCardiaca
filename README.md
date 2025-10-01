@@ -1,7 +1,7 @@
 # MVP 3 - Ciência de Dados: Predição de Doença Cardíaca
 
-**Discente:** [Seu Nome Completo]  
-**Data:** 01/10/2025  
+**Discente:** Helena Silveira Ventura
+**Data:** 29/09/2025
 
 ---
 
